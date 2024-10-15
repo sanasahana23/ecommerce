@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.615ca336.css",
+    "main.js": "/static/js/main.16e9e6f5.js",
+    "static/js/453.ad871dcd.chunk.js": "/static/js/453.ad871dcd.chunk.js",
+    "static/media/ticketBookingImage1.jpg": "/static/media/ticketBookingImage1.6ef82f644c002231543f.jpg",
+    "static/media/ticketBookingImage2.jpg": "/static/media/ticketBookingImage2.766d3a92e4cbb6561cc7.jpg",
+    "index.html": "/index.html",
+    "main.615ca336.css.map": "/static/css/main.615ca336.css.map",
+    "main.16e9e6f5.js.map": "/static/js/main.16e9e6f5.js.map",
+    "453.ad871dcd.chunk.js.map": "/static/js/453.ad871dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.615ca336.css",
+    "static/js/main.16e9e6f5.js"
+  ]
+}
